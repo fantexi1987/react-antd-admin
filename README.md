@@ -3,11 +3,14 @@
 >[Ant Design Pro](https://pro.ant.design) is a production-ready solution for admin interfaces. Built on the design principles developed by Ant Design, this project introduces higher level components; we have developed templates, components, and a corresponding design kit to improve the user and development experience for admin interfaces.
 
 ## React Ant Admin UI
+
+
 个人不太喜欢用dva的东西，感觉过度封装，还是喜欢自己从无到有的搭建一个react工程。本类是一个简单的react样例，主要包含以下功能：
-1）菜单和路由的动态获取，显示
-2）国际化功能，切换语言
-3）简单表格和表单的样例
-4）用户登录
+	1）菜单和路由的动态获取，显示
+	2）国际化功能，切换语言
+	3）简单表格和表单的样例
+	4）用户登录
+
 
 ## Features
 
