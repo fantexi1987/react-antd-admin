@@ -4,13 +4,6 @@
 
 ## React Ant Admin UI
 
-<p align="center">
-  <a href="https://react-antd-admin.surge.sh" target="_blank">
-    <img src="demo.png" width="700px">
-    <br>
-    Live Demo
-  </a>
-</p>
 
 ## Features
 
