@@ -5,15 +5,23 @@
 ## React Ant Admin UI
 
 
+个人不太喜欢用dva的东西，感觉过度封装，还是喜欢自己从无到有的搭建一个react工程。本类是一个简单的react样例，主要包含以下功能：
+	1）菜单和路由的动态获取，显示
+	2）国际化功能，切换语言
+	3）简单表格和表单的样例
+	4）用户登录
+
+
 ## Features
 
 - [React](https://facebook.github.io/react/)
 - [Redux](https://github.com/reactjs/redux)
+- [react-intl](https://github.com/yahoo/react-intl)
+- [redux-thunk](https://github.com/reduxjs/redux-thunk)
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom)
 - [Ant.Design](http://ant.design/)
 - [Babel](https://babeljs.io/)
 - [webpack](https://webpack.github.io/)
-- [mocha](https://mochajs.org/)
-- [enzyme](https://github.com/airbnb/enzyme)
 
 ## Getting Started
 
@@ -45,12 +53,3 @@ $ npm run build
 
 ## Changelog
 
-### 0.2.0
-
-* 更新 React 到 15.6.x
-* 更新 webpack 到 2.x
-
-### 0.1.2
-
-* 更新依赖组件到最新版本
-* 增加 page2 demo
