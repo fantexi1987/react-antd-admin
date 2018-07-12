@@ -2,7 +2,7 @@
 
 >[Ant Design Pro](https://pro.ant.design) is a production-ready solution for admin interfaces. Built on the design principles developed by Ant Design, this project introduces higher level components; we have developed templates, components, and a corresponding design kit to improve the user and development experience for admin interfaces.
 
-## React Ant.Design Admin UI
+## React Ant Admin UI
 
 <p align="center">
   <a href="https://react-antd-admin.surge.sh" target="_blank">
@@ -27,7 +27,7 @@
 Just clone the repo and install the necessary node modules:
 
 ```shell
-$ git clone https://github.com/fireyy/react-antd-admin
+$ git clone https://github.com/fantexi1987/react-antd-admin
 $ cd react-antd-admin
 $ npm install
 ```
